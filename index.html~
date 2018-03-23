@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+ 
+<html> 
+<head> 
+<style type="text/css">
+  ul.pub li{
+    margin: 10px 0;
+  }
+</style>
+
+<title> 
+	Dustin Dannenhauer | Lehigh University | Computer Science
+</title>  
+</head> 
+<body>
+
+<table width="100%">
+	<tr>
+		<td align="center" width="33%">
+			<table>
+			<tr>
+			<td>
+			<img align="right" src="lehigh-official-logo.jpg" width="300" />
+			</td>
+			</tr>
+			</table>
+		</td>
+		<td align="center" width="33%">
+			<table> 
+			<tr>
+			<td>
+			<h1 align="center">Dustin Dannenhauer</h1>
+			<h4 align="center">Ph.D. Candidate</h4>
+			<h4 align="center">Computer Science</h4>
+			<h4 align="center">dtd212(at)lehigh(dot)edu</h4>
+			</td>
+			</tr>
+			</table>
+		</td>
+		<td align="center" width="33%">
+			<table>
+			<tr>
+			<td>
+			<img align="right" src="MeKentuckyLake.jpg" height="200"/> 
+			</td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+</table> 
+	<hr />
+	<p align="center">
+	<a href="#research">Research</a> |
+        <a href="#publications">Publications</a> | 
+	<a href="#teaching">Teaching</a> | 
+	<a href="#awards">Awards and Scholarships</a> |
+	<a href="#work">Work Experience</a> |
+	<a href="#conf">Conferences</a> |
+	<a href="#service">Service</a> |
+	<a href="#misc">Misc</a> 
+	 
+	 			 <!-- | <a href="#classes">Classes</a>--></p>
+	
+	<hr />
+	<h2><a name="research">Research</a></h2>
+
+Curriculum Vitae <a href="cv-web.pdf">[PDF]</a>
+
+<h4>Current Research</h4>
+
+<ul>
+<li>I am currently investigating autonomous agents, under the framework of goal reasoning, that operate in complex, real-time, and partially-observable domains.
+</ul>
+
+<h4>Research Interests</h4>
+<p>Metacognition, Goal Reasoning, Automated Planning, Instance-based Learning, Execution Monitoring, Search, Knowledge
+Representation</p>
+	
+	<hr /> 
+	<h2><a name="publications">Publications</a></h2>
+	<ul class="pub">
+	  <li><b>[AAAI-17]</b> Cox, M. T., Dannenhauer, D., and Kondrakunta, S. "Goal Operations for Cognitive Systems." <em>To appear in:</em> Proceedings of the 31st AAAI Conference on Artificial Intelligence. Palo Alto, CA: AAAI Press. In press.</li>
+	  <li><b>[IJCAI-16]</b> Dannenhauer, D., Munoz-Avila, H., and Cox, M. T. "Informed Expectations to Guide GDA Agents in Partially Observable Environments." Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI). Palo Alto, CA: AAAI Press. 2016. <a href="ijcai16.pdf">[PDF]</a></li>
+	  <li><b>[IJCAI-16 Goal Reasoning Workshop]</b> Cox, M. T., and Dannenhauer, D. Goal transformation and goal reasoning. 
+M.Roberts (Ed.), Working Notes of the 4th Workshop on Goal Reasoning. New York, IJCAI. 2016.
+http://makro.ink/ijcai2016grw/ </li>
+	  <li><b>[IJCAI-16 Doctoral Consortium]</b> Dannenhauer, D. "Self Monitoring Goal Driven Autonomy Agents." Doctoral Consortium, International Joint Conference on Artificial Intelligence (IJCAI). AAAI Press, 2016. </li>
+	  <li><b>[AAAI-16]</b> Cox, M. T., Alavi, Z., Dannenhauer, D., Eyorokon, V., and Munoz-Avila, H. "MIDCA: A Metacognitive, Integrated Dual-Cycle Architecture for Self-regulated Autonomy." Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI). Palo Alto, CA: AAAI Press. 2016.  <a href="aaai16.pdf">[PDF]</a> </li>
+	  <li><b>[IJCAI-15]</b> Dannenhauer, D., and Munoz-Avila, H. "Raising expectations in GDA agents acting in dynamic environments." Proceedings of the 24th International Conference on Artificial Intelligence (IJCAI). AAAI Press, 2015. <a href="ijcai15.pdf">[PDF]</a></li>
+	  <li><b>[ICCBR-15]</b> Dannenhauer, D., and Munoz-Avila, H. "Goal-Driven Autonomy with Semantically-annotated Hierarchical Cases." International Conference on Case-Based Reasoning (ICCBR). Springer International Publishing, 2015. 88-103. <a href="http://www.cse.lehigh.edu/~munoz/Publications/iccbr15.pdf">[PDF]</a></li>
+	  <li><b>[ACS-15 Goal Reasoning Workshop]</b> Munoz-Avila, H.,  Dannenhauer, D., and Cox, M. T. "Towards cognition-level goal reasoning for playing real-time strategy games." Goal Reasoning: Papers from the ACS Workshop. 2015. <a href="ACS-15-GRW_paper_5.pdf">[PDF]</a></li>
+	  <li><b>[BICA-14]</b> Dannenhauer, D., Cox, M. T., Gupta, S., Paisner, M. and Perlis, D. "Toward meta-level
+control of autonomous agents." In Proceedings of the 2014 Annual International Conference on
+Biologically Inspired Cognitive Architectures: Fifth annual meeting of the BICA Society (BICA). Elsevier/Procedia Computer Science, 41, 226-232. 2014.  <a href="bica-2014.pdf">[PDF]</a></li>
+	  <li><b>[AIIDE-13 Doctoral Consortium]</b> Dannenhauer, D. "Ontological Knowledge for Goal-Driven Autonomy Agents in Starcraft." Doctoral Consortium, 9th Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE). 2013.
+	  <li><b>[ACS-13]</b> Dannenhauer, D. and Munoz-Avila, H. "LUIGi: A Goal-Driven Autonomy Agent Reasoning with Ontologies." Advances in Cognitive Systems Conference (ACS). 2013.  <a href="http://www.cse.lehigh.edu/~munoz/Publications/DannenhauerACS13.pdf">[PDF]</a></li>
+
+	<li><b>[ICCBR-13]</b> Dannenhauer, D., Munoz-Avila, H. "Case-based Goal Selection Inspired by IBM's Watson." International Conference on Case-Based Reasoning (ICCBR). Springer. 29-43. 2013. <a href="10.1007_978-3-642-39056-2_3.pdf">[PDF]</a></li>
+	</ul>
+
+	<h3><font><a href="https://scholar.google.com/citations?user=QDHntzAAAAAJ">Google Scholar Profile</font></a></h3>
+	<h3><font><a href="https://www.researchgate.net/profile/Dustin_Dannenhauer">ResearchGate Profile</font></a></h3>
+
+	<hr />
+	<h2><a name="teaching">Teaching</a></h2>
+	<p>TA Positions at Lehigh University:</p>
+	<ul>
+	<li>Fall 2014: TA for Intro To Theory Of Computation (CSE 318), also assisting Design And Analysis Of Algorithms (CSE 340)</li>
+	</ul>
+	<p>Undergraduate Instructor Positions at Indiana University:</p>
+	<ul>
+<li> Spring 2012: Undergraduate Instructor for
+	CSCI-C211:
+	"Introduction to Computer Science",
+	under <a href="https://www.cs.indiana.edu/~menzel/">Suzanne Menzel</a></li>
+	<li>Fall 2011: Undergraduate Instructor for CSCI-B351:
+	"Introduction to Artificial Intelligence", under Professor <a href="http://www.cs.indiana.edu/~leake/">David B. Leake</a></li>
+		<li>Spring 2011: Undergraduate Instructor for CSCI-C211:
+	"Introduction to Computer Science",
+	under Suzanne Menzel</li>
+
+	<li>Fall 2010: Undergraduate Instructor for CSCI-C311:
+	"Introduction to Programming Languages", under Professor <a
+	href="https://www.cs.indiana.edu/~dfried/">Daniel P. Friedman</a></li>		
+		<li>Spring 2010: Undergraduate Instructor for CSCI-C211: "Introduction to Computer Science", under Suzanne Menzel</li>
+		<li>Fall 2009: Undergraduate Instructor for CSCI-C211: "Introduction to Computer Science", under Suzanne Menzel</li>
+	</ul>
+	<hr />	
+	<h2><a name="awards">Awards and Scholarships</a></h2>
+	<ul>
+	<li> During graduate school at Lehigh University
+	<p>Certificates:</p>
+	<ul> <li> <a href="TeacherDevelopmentCertificate.pdf">Teacher Development Program Level 1</a> (6 week program on college-level teaching) </li></ul>
+	<p>Fellowships:</p>
+	<ul> <li> Recipient of the Lehigh University Fellowship for my first year at Lehigh University </li></ul>
+	<br />
+	</li>
+
+	<li> From my undergraduate time at Indiana University:
+	<p>Scholarships:</p>
+		<ul>
+			<li>Recipient of the <a
+		href="http://mcnair.indiana.edu/">McNair
+		Scholarship</a></li>
+		<li>Recipient of the <a href="http://www.informatics.indiana.edu/future/scholarships.asp">CNA Scholarship</a></li>
+		</ul>
+	<p>Awards:</p>
+		<ul>
+			<li>Undergraduate Instructor of the Year <a
+		href="UI_award.jpg">Award</a> for the 2009-2010 school
+		year for CSCI-C211</li>
+		<li>Included on the Dean's List for the following semesters:</li>
+		<ul>
+		<li><a href="deans_list_spring_2010.jpg">Spring 2010</a></li>
+		</ul>
+		</ul></li>
+
+		</ul>
+	<hr />
+	<h2><a name="work">Work Experience</a></h2>
+
+	<p>Research Internship with University of Maryland (Summer 2014: June to August)</p>
+	<ul>
+	  <li>Worked under <a href="http://mcox.org/">Michael Cox</a></li>
+	  <li>Gained experience with TREX, Baxter Robot, ROS, Gazebo, MIDCA</li>
+	</ul>
+	
+	<p>Naval Research Laboratory, Washington D.C. (Summer Internship July 2012 - August 2012)</p>
+	<ul>
+	<li>Worked closely with <a href="http://home.earthlink.net/~dwaha/">Dr. David Aha</a></li>
+	</ul>
+
+	<p>Student Researcher at Indiana University (Summer 2011)</p>
+	<ul>
+	  <li>Worked under Dr. David Leake</li>
+	  <li>Investigated introspective learning techniques in a case-based reasoning system</li>
+	  <li>Funded by the <a href="http://mcnair.indiana.edu/">Ronald E. McNair Postbaccalaureate Achievement Program</a></li>
+	  <li>Presented my work at the Indiana University Hutton Honors College Symposium (April 14 2012)</li>
+	</ul>
+
+
+	<p><a href="http://www.cerner.com/public/default.asp">Cerner Corporation</a> (Summer Internship May 2010 - July 2010):</p>
+	<ul>
+	<li>Software Engineer Intern</li>
+	<li>11 Week Paid Summer Internship (40 hours/week)</li>
+	<li>Java Development</li>
+	</ul>
+	<hr />
+	<h2><a name="conf">Conferences/Summer Schools</a></h2>
+	<ul>
+	        <li>Attended the <a href="http://learning.stat.purdue.edu/mlss/mlss/start">Machine Learning Summer
+	School</a> at Purdue University, June 2011</li>
+		<li>Attended the <a
+	href="http://www.aaai.org/Conferences/AAAI/aaai11.php">
+	Association for the Advancement of Artificial Intelligence (AAAI)</a>
+	conference in San Francisco, August 2011</li>
+	</ul>
+	<hr />
+
+	<h2><a name="service">Service</a></h2>
+	<ul>
+	  <li>Vice President of the Lehigh's Graduate Student Senate for the 2014-2015 academic year</li>
+	  <li>President of the YES+ Graduate Club from 2012 until 2015</li>
+	</ul>
+	<hr />
+	<h2><a name="misc">Miscellaneous</a></h2>
+	
+
+	<ul>
+	<li>Custom Lehigh-themed LaTeX beamer presentation (for fellow lehigh'ers): <a href="LehighThemedLaTeXBeamerTemplate.zip">LehighThemedLaTeXBeamerTemplate.zip</a></li>
+	
+  </ul>	
+	<hr />
+	<p align="center">Last Updated: December 8th 2016</p>
+</body> 
+</html>
