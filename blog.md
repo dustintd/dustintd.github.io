@@ -28,3 +28,4 @@ And it looks like:
 
 ![LaTeX Example](assets/images/latex_colored_notes_example.png)
 
+_November 4, 2018_
