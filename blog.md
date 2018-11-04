@@ -22,4 +22,7 @@ If cognition is characterized by a system's structured knowledge about rich, com
   metacognitive expectation. We then elaborate this idea formally and discuss its function computationally. 
 ```
 
+And it looks like:
+
+![LaTeX Example](assets/images/latex_colored_notes_example.png)
 
