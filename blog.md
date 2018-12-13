@@ -4,7 +4,7 @@ layout: default
 
 ## Colored Comments in LaTeX
 
-I've found this to be super useful when collaborating on a shared LaTeX document. At the top of the document include the following and define your own personal note (and color!). Here's an example where I (Dustin) and my friend Adam have each made a note:
+I've found this to be useful when collaborating on a shared LaTeX document. At the top of the document include the following and define your own personal note (and color!). Here's an example where I (Dustin) and my friend Adam have each made a note:
 
 ```tex
 \usepackage{todonotes} % for comments
